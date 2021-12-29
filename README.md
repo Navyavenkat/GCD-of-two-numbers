@@ -32,7 +32,7 @@ RegisterNumber: V.Navya
 ```
 
 ## Output:
-![GCD.png]
+![GITHUB LOGO](GCD.png)
 
 
 ## Result:
